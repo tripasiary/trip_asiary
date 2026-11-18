@@ -1,0 +1,7 @@
+{
+  "updated_at": "",
+  "places": [
+    {"id":"S001","city":"상하이","area":"푸동","category":"맛집","name":"헌치우이치엔 (화룬시대광장점)","local_name":"很久以前羊肉串","address":"","map_url":"","blog_url":"","description":"직접 방문한 지점. 정확한 주소와 지도 링크는 확인 후 추가 예정","source":"visited"},
+    {"id":"G001","city":"계림·양숴","area":"양숴","category":"숙소","name":"수쉐 트리하우스 호텔","local_name":"树舍假日酒店(益田西街店)","address":"桂林市阳朔县蟠桃路32号","map_url":"","blog_url":"","description":"직접 숙박한 숙소. 서가 접근성이 편리했어요","source":"visited"}
+  ]
+}
