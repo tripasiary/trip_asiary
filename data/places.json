@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:02:14+00:00",
+  "updated_at": "2026-11-18T13:04:58+00:00",
   "places": [
     {
       "id": "G001",
@@ -9,8 +9,8 @@
       "name": "구이린량장국제공항",
       "local_name": "桂林两江国际机场",
       "address": "",
-      "map_url": "https://surl.amap.com/kHzkcY21f3DN/url",
-      "blog_url": "https://blog.naver.com/trip_asiary/224468626828/url",
+      "map_url": "https://surl.amap.com/kHzkcY21f3DN",
+      "blog_url": "https://blog.naver.com/trip_asiary/224468626828",
       "description": "새벽도착시 공항버스 인당 20위안",
       "source": "visited"
     },
@@ -22,7 +22,7 @@
       "name": "계림역",
       "local_name": "桂林站",
       "address": "",
-      "map_url": "https://surl.amap.com/2xhYyJpQ1p7p9/url",
+      "map_url": "https://surl.amap.com/2xhYyJpQ1p7p9",
       "blog_url": "",
       "description": "",
       "source": "visited"
@@ -35,7 +35,7 @@
       "name": "계림북역",
       "local_name": "桂林北站",
       "address": "",
-      "map_url": "https://surl.amap.com/3mbEsqa82vq/url",
+      "map_url": "https://surl.amap.com/3mbEsqa82vq",
       "blog_url": "",
       "description": "",
       "source": "researched"
@@ -48,10 +48,23 @@
       "name": "계림서역",
       "local_name": "桂林西站",
       "address": "",
-      "map_url": "https://surl.amap.com/35gxDhlEffOw/url",
+      "map_url": "https://surl.amap.com/35gxDhlEffOw",
       "blog_url": "",
       "description": "",
       "source": "researched"
+    },
+    {
+      "id": "G005",
+      "city": "계림·양숴",
+      "area": "계림",
+      "category": "관광",
+      "name": "일월쌍탑",
+      "local_name": "日月双塔",
+      "address": "",
+      "map_url": "https://surl.amap.com/1s7OKNxQ15gUW",
+      "blog_url": "",
+      "description": "",
+      "source": "visited"
     }
   ]
 }
